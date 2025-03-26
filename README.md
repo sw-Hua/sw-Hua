@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Songwen Hua (华嵩文)  
+# Hi, I'm Songwen Hua
  
 MSc in Information Studies, **Nanyang Technological University** 
 Bsc in Information Technology, **University of Technology Sydney**  
