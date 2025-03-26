@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 # Hi, I'm Songwen Hua (华嵩文)  
  
-🎓 MSc in Information Studies, **Nanyang Technological University** 
-🎓 Bsc in Information Technology, **University of Technology Sydney**  
-💼 Former Software Engineer (QA & Java) **at Binance**  
+MSc in Information Studies, **Nanyang Technological University** 
+Bsc in Information Technology, **University of Technology Sydney**  
+Former Software Engineer (QA & Java) **at Binance**  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Languages:** Java (Spring Boot, Spring Cloud), Python (PyTorch, Flask), JavaScript (React, Vue, Node.js)  
 - **Databases:** MySQL, PostgreSQL, Hive, ElasticSearch  
 - **Distributed Systems:** Kafka, RabbitMQ, Kubernetes, Docker, AWS  
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💼 Experience  
+## Experience  
 ### Binance - **Software Engineer (QA & Java)** *(May 2024 - Feb 2025)*  
 - Optimized **microservices & API performance** using Java Spring Cloud.  
 - Improved **Kubernetes-based deployments & CI/CD pipelines**.  
@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects  
+## Projects  
 - **[AI-Driven Financial Analysis](https://github.com/sw-Hua/AI-Finance-Analysis)** – FastAPI + ChatGLM2-6B + LoRA  
 - **[Crypto Arbitrage Monitoring](https://github.com/sw-Hua/Crypto-Arbitrage-Monitoring)** – Binance & Bitget real-time data tracking  
 - **[Smart Contract Security Analyzer](https://github.com/sw-Hua/Smart-Contract-Security-Analyzer) (WIP)** – AI-powered Solidity vulnerability detection  
 
 ---
 
-## 📚 Research & Interests  
-🔹 **Blockchain Security | AI-powered Bug Detection | Smart Contract Auditing**  
+## Research & Interests  
+🔹 **Blockchain | Smart Contract**  
 🔹 **Microservices & Cloud-Native Architecture | AI Fine-Tuning**  
 🔹 **AI & Deep Learning Learner**  
 
