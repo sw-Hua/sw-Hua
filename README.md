@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 
 # Hi, I'm Songwen Hua (华嵩文)  
-
-📧 Email: [a13419460@163.com](mailto:a13419460@163.com)  
-🔗 LinkedIn: [linkedin.com/in/songwen-hua](https://linkedin.com/in/songwen-hua)  
-📂 GitHub: [github.com/sw-Hua](https://github.com/sw-Hua)  
-🎓 MSc in Information Studies, **Nanyang Technological University (NTU)** | **Expected: Jan 2025**  
-💼 Former Software Engineer (QA & Java) **at Binance (Blockchain & Security Testing)**  
+ 
+🎓 MSc in Information Studies, **Nanyang Technological University** 
+🎓 Bsc in Information Technology, **University of Technology Sydney**  
+💼 Former Software Engineer (QA & Java) **at Binance**  
 
 ---
 
