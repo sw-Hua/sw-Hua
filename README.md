@@ -41,7 +41,7 @@ Former Software Engineer (QA & Java) **at Binance**
 
 ---
 
-## Research & Interests  
+## Interests  
 🔹 **Blockchain | Smart Contract**  
 🔹 **Microservices & Cloud-Native Architecture | AI Fine-Tuning**  
 🔹 **AI & Deep Learning Learner**  
