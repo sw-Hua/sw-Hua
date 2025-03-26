@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Songwen Hua
  
-MSc in Information Studies, **Nanyang Technological University** 
-Bsc in Information Technology, **University of Technology Sydney**  
+MSc in Information Studies, **Nanyang Technological University**, Bsc in Information Technology, **University of Technology Sydney**  
 Former Software Engineer (QA & Java) **at Binance**  
 
 ---
