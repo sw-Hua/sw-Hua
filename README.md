@@ -37,9 +37,13 @@ Former Software Engineer (QA & Java) **at Binance**
 
 ### Bosch - **Intern Software Engineer** *(Feb 2023 - Jun 2023)*  
 - Built **Spring Boot + MySQL + Vue** system for supply chain data.  
-- Optimized **SAP/ERP data processing** using SQL & Pandas.  
+- Optimized **data processing** using SQL & Pandas.  
 
 ---
+## 🚀 Projects  
+- **[AI-Driven Financial Analysis](https://github.com/sw-Hua/financial-analysis-system)** – FastAPI + ChatGLM2-6B + LoRA  
+- **[ETH Wallet](https://docs.google.com/document/d/1FwfY58t96pk10HAJl-lRSyRI-ejEE3t4oWtfHb5pDMM/edit?usp=sharing)** – Ethereum Wallet Application
+- **[AI Career Recommendation Research](https://drive.google.com/file/d/1f9qvn5TMHfM-G0gzp2VmUwqXs-zuh9-_/view?usp=sharing)** – Government Collaboration & AI Optimization  
 
 ## Interests  
 🔹 **Blockchain | Smart Contract**  
