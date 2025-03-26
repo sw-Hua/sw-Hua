@@ -25,7 +25,7 @@ Former Software Engineer (QA & Java) **at Binance**
 - **Languages:** Java (Spring Boot, Spring Cloud), Python (PyTorch, Flask), JavaScript (React, Vue, Node.js)  
 - **Databases:** MySQL, PostgreSQL, Hive, ElasticSearch  
 - **Distributed Systems:** Kafka, RabbitMQ, Kubernetes, Docker, AWS  
-- **AI & Blockchain:** LLM Fine-tuning (ChatGLM, LoRA), Smart Contract Security, NLP for Bug Detection  
+- **AI & Blockchain:** LLM Fine-tuning (Bert, ChatGLM, LoRA), Smart Contract Security, NLP for Bug Detection  
 
 ---
 
