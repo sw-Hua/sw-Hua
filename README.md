@@ -41,13 +41,6 @@ Former Software Engineer (QA & Java) **at Binance**
 
 ---
 
-## Projects  
-- **[AI-Driven Financial Analysis](https://github.com/sw-Hua/AI-Finance-Analysis)** – FastAPI + ChatGLM2-6B + LoRA  
-- **[Crypto Arbitrage Monitoring](https://github.com/sw-Hua/Crypto-Arbitrage-Monitoring)** – Binance & Bitget real-time data tracking  
-- **[Smart Contract Security Analyzer](https://github.com/sw-Hua/Smart-Contract-Security-Analyzer) (WIP)** – AI-powered Solidity vulnerability detection  
-
----
-
 ## Research & Interests  
 🔹 **Blockchain | Smart Contract**  
 🔹 **Microservices & Cloud-Native Architecture | AI Fine-Tuning**  
