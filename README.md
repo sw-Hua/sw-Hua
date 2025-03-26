@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sw-Hua/sw-Hua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Songwen Hua (华嵩文)  
+# Hi, I'm Songwen Hua (华嵩文)  
 
 📧 Email: [a13419460@163.com](mailto:a13419460@163.com)  
 🔗 LinkedIn: [linkedin.com/in/songwen-hua](https://linkedin.com/in/songwen-hua)  
